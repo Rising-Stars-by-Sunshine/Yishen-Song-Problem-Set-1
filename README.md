@@ -145,7 +145,7 @@ pip install --upgrade pip
 - **Advisor / Supervisor** (Institution Name)
 - **Contributors** (Team Members)
 
-For further inquiries, contact: **your-email@domain.com**
+
 
 ---
 ## **5. License**
