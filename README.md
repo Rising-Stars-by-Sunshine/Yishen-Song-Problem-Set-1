@@ -140,13 +140,6 @@ pip install --upgrade pip
 ```
 
 ---
-## **4. Contributors**
-- **Your Name** (Lead Researcher)
-- **Advisor / Supervisor** (Institution Name)
-- **Contributors** (Team Members)
 
-
-
----
-## **5. License**
+## **4. License**
 This project is licensed under the **MIT License**. See `LICENSE.md` for details.
